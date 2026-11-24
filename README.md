@@ -2,9 +2,7 @@
 
 ### Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
-MCA graduate passionate about data analytics, business intelligence, and transforming raw data into meaningful business insights.
-
-I enjoy working with data, building interactive dashboards, performing exploratory data analysis, and solving business problems through analytical thinking.
+MCA graduate passionate about data analytics, business intelligence, and transforming raw data into meaningful business insights.I enjoy working with data, building interactive dashboards, performing exploratory data analysis, and solving business problems through analytical thinking.
 
 ---
 
